@@ -21,6 +21,7 @@ For the purpose of quality assurance, a manufacturer of medical lasers wants to 
 
 * four classifiers: `Decision Tree`, `Random Forest`, `SVM(Support Vector Machine)`, `KNN(KNN (K Nearest Neighbor)`
 * evaluation/permormance metrics: `accuracy`, `recall`, `precision`, `f1-score`, `confusion matrix`, `AUC`, `ROC curve`
+* dataset: `laser.mat`
 
 ### justify model's robustness
 Following this steps to justify all model's robustness:
